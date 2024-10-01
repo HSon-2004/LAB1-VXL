@@ -121,7 +121,7 @@ int main(void)
 	  //Exercise4_run();
 	  //Exercise5_run();
 	  //Exercise6_run();
-	  Exercise5_run();
+	  Exercise6_run();
 	  HAL_Delay(1000);
     /* USER CODE END WHILE */
 
